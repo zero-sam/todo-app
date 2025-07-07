@@ -22,7 +22,7 @@ A modern, multi-screen Flutter to-do manager app with persistent storage, beauti
 ### Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git clone https://github.com/zero-sam/todo-app.git
    cd todo_final
    ```
 2. **Install dependencies:**
